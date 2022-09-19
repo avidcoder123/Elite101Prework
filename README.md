@@ -12,3 +12,4 @@ Heisenbot's main strength is in answering questions. He can answer most question
 
 Instead of giving a random response for a statement like most basic chatbots, Heisenbot runs a hash function on user input to decide what to say. 
 This way, his response is always the same for any message he is sent.
+conflict message
